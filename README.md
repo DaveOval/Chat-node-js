@@ -6,4 +6,4 @@
 ## App en uso con varios usuarios: 
 
 ![chat](./Media/app.png)
-![chat](./Media/login.png)
+![chat](./Media/chat.png)
