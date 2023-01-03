@@ -1,4 +1,9 @@
 # Chat-node-js
-## App image: 
+## Login de la pagina: 
 
+![chat](./Media/login.png)
+
+## App en uso con varios usuarios: 
+
+![chat](./Media/app.png)
 ![chat](./Media/login.png)
